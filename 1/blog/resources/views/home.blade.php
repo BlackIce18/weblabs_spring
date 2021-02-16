@@ -19,5 +19,8 @@
             </div>
         </div>
     </div>
+    <div class="row">
+        <my-component></my-component>
+    </div>
 </div>
 @endsection
